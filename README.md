@@ -10,9 +10,9 @@
   
   The official reason is that someone has reported that every piece of software in the library that I have verified has a virus and is affecting their computer.
   
-  I don't know what it means, but for now I can only delete all executable programs, and if you want these software tools, you can contact them in the comment section or by email. 
+  I don't know what it means, but for now I can only delete all executable programs, and if you want these software tools, you can contact me in the comment section or by email. 
   
-  I'm sorry for the change, after all, I can't accept a complete ban on GitHub.
+  I'm sorry for the change, after all, I can't accept a complete ban of my GitHub account.
 
   zbnsandman@gmail.com
 
