@@ -14,7 +14,10 @@
   
   I'm sorry for the change, after all, I can't accept a complete ban of my GitHub account.
 
-  zbnsandman@gmail.com
+> zbnsandman@gmail.com
+
+Or you can find sth. on Gitee🤨
+> https://gitee.com/sandman6z/SSD-Udisk-test-softwares
 
 ---
 
